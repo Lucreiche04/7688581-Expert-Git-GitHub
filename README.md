@@ -17,7 +17,7 @@ git
 
 ```
 
-### Installation
+### Installation des étapes pour un environnement 
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
