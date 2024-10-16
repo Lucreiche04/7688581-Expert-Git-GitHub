@@ -12,6 +12,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 A définir
+git
+
 
 ```
 
@@ -22,6 +24,8 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 
 ```
 A définir
+Création d'un compte github
+Installation de git
 ```
 
 
@@ -39,6 +43,8 @@ Voici les étapes à suivre pour déployer en production :
 
 ```
 A définir
+on initialise le projet
+
 ```
 
 ## Technologies :
